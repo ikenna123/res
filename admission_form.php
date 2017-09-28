@@ -73,7 +73,7 @@
 			
 				<div class=" col-xs-6 col-md-6 col-lg-6">
 			
-				<h2>FOOTHILL GRAMMER SCHOOL</h2>
+				<h2>FOOTHILL GRAMMER SCHOOL.</h2>
 				<h4><font color="red">Registration form</font></h4>
 				<label>Your School Registration number is:*&nbsp; &nbsp;</label><font color="Blue"><label class="uppercase" id="display" name="id">
 				</label></font><br><br>
@@ -98,7 +98,7 @@
 						<select id="years" name="year"></select>Year*<br><br>
 				<label>Choose a Filed of Study:* Science/Art/Commercial</label>
 											<select name="filed_of_study" id="filed_of_study">
-											<option value="">Select...</option>
+											<option value="">...Select...</option>
 											<option value="science">Science</option>
 											<option value="art">Art</option>
 											<option value="commercial">Commercial</option>
